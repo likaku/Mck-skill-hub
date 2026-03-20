@@ -2,30 +2,24 @@
   <defs>
     <style>
       .title { font-family: Georgia, 'Times New Roman', serif; font-size: 48px; font-weight: bold; fill: #051C2C; }
-      .hub { font-family: Georgia, 'Times New Roman', serif; font-size: 48px; font-weight: bold; fill: #C4A35A; }
-      .subtitle { font-family: Arial, Helvetica, sans-serif; font-size: 13px; fill: #888888; letter-spacing: 2.5px; text-transform: uppercase; }
+      .subtitle { font-family: Arial, Helvetica, sans-serif; font-size: 13px; fill: #666666; letter-spacing: 2.5px; text-transform: uppercase; }
     </style>
   </defs>
 
-  <!-- Geometric icon: 2x2 matrix squares -->
+  <!-- Geometric icon: 2x2 matrix squares — navy monochrome -->
   <g transform="translate(0, 18)">
-    <!-- Top-left -->
     <rect x="0" y="0" width="32" height="32" rx="4" fill="#051C2C"/>
-    <!-- Top-right -->
-    <rect x="36" y="0" width="32" height="32" rx="4" fill="#051C2C" opacity="0.7"/>
-    <!-- Bottom-left -->
-    <rect x="0" y="36" width="32" height="32" rx="4" fill="#051C2C" opacity="0.4"/>
-    <!-- Bottom-right -->
-    <rect x="36" y="36" width="32" height="32" rx="4" fill="#C4A35A"/>
+    <rect x="36" y="0" width="32" height="32" rx="4" fill="#051C2C" opacity="0.6"/>
+    <rect x="0" y="36" width="32" height="32" rx="4" fill="#051C2C" opacity="0.3"/>
+    <rect x="36" y="36" width="32" height="32" rx="4" fill="#051C2C" opacity="0.15"/>
   </g>
 
-  <!-- Title text -->
-  <text x="88" y="58" class="title">Mck Skill</text>
-  <text x="378" y="58" class="hub"> Hub</text>
+  <!-- Title text — all navy -->
+  <text x="88" y="58" class="title">Mck Skill Hub</text>
 
-  <!-- Accent line -->
-  <rect x="88" y="68" width="120" height="2.5" rx="1.25" fill="#C4A35A"/>
+  <!-- Accent line — navy, not gold -->
+  <rect x="88" y="68" width="120" height="2.5" rx="1.25" fill="#051C2C"/>
 
-  <!-- Subtitle -->
+  <!-- Subtitle — MED_GRAY -->
   <text x="88" y="95" class="subtitle">Professional AI skills for knowledge workers</text>
 </svg>

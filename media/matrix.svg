@@ -1,69 +1,65 @@
 <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 720 480">
   <defs>
     <style>
-      .axis-label { font-family: Arial, Helvetica, sans-serif; font-size: 11px; fill: #999999; letter-spacing: 1.5px; text-transform: uppercase; }
+      .axis-label { font-family: Arial, Helvetica, sans-serif; font-size: 11px; fill: #666666; letter-spacing: 1.5px; text-transform: uppercase; }
+      .axis-label-dim { font-family: Arial, Helvetica, sans-serif; font-size: 11px; fill: #CCCCCC; letter-spacing: 1.5px; text-transform: uppercase; }
       .quad-title { font-family: Georgia, 'Times New Roman', serif; font-size: 16px; font-weight: bold; }
       .quad-emoji { font-size: 24px; }
-      .quad-desc { font-family: Arial, Helvetica, sans-serif; font-size: 12px; fill: #888888; font-style: italic; }
-      .quad-motto { font-family: Arial, Helvetica, sans-serif; font-size: 11px; fill: #AAAAAA; }
+      .quad-desc { font-family: Arial, Helvetica, sans-serif; font-size: 12px; fill: #666666; font-style: italic; }
+      .quad-motto { font-family: Arial, Helvetica, sans-serif; font-size: 11px; fill: #666666; }
     </style>
   </defs>
 
-  <!-- Background -->
-  <rect width="720" height="480" fill="white" rx="12"/>
+  <!-- Background — WHITE -->
+  <rect width="720" height="480" fill="#FFFFFF" rx="12"/>
 
-  <!-- Grid area: 80,40 to 640,440 -->
-  <!-- Center cross lines -->
-  <line x1="360" y1="50" x2="360" y2="430" stroke="#E0E0E0" stroke-width="1" stroke-dasharray="4,4"/>
-  <line x1="90" y1="240" x2="630" y2="240" stroke="#E0E0E0" stroke-width="1" stroke-dasharray="4,4"/>
+  <!-- Center cross lines — LINE_GRAY -->
+  <line x1="360" y1="50" x2="360" y2="430" stroke="#CCCCCC" stroke-width="1" stroke-dasharray="4,4"/>
+  <line x1="90" y1="240" x2="630" y2="240" stroke="#CCCCCC" stroke-width="1" stroke-dasharray="4,4"/>
 
-  <!-- Axis arrows -->
-  <!-- Y axis -->
-  <line x1="360" y1="44" x2="360" y2="40" stroke="#CCCCCC" stroke-width="1.5"/>
+  <!-- Axis arrows — LINE_GRAY -->
   <polygon points="356,44 360,34 364,44" fill="#CCCCCC"/>
-  <!-- X axis -->
-  <line x1="634" y1="240" x2="638" y2="240" stroke="#CCCCCC" stroke-width="1.5"/>
   <polygon points="634,236 644,240 634,244" fill="#CCCCCC"/>
 
-  <!-- Axis labels -->
+  <!-- Axis labels — MED_GRAY / LINE_GRAY -->
   <text x="360" y="24" text-anchor="middle" class="axis-label">Achievement</text>
   <text x="674" y="244" text-anchor="middle" class="axis-label">Meaning</text>
-  <text x="46" y="244" text-anchor="middle" class="axis-label" fill="#CCCCCC">Low</text>
-  <text x="360" y="458" text-anchor="middle" class="axis-label" fill="#CCCCCC">Low</text>
+  <text x="46" y="244" text-anchor="middle" class="axis-label-dim">Low</text>
+  <text x="360" y="458" text-anchor="middle" class="axis-label-dim">Low</text>
 
-  <!-- ===== QUADRANT: Top-Left (Hollow Victory) ===== -->
-  <rect x="100" y="55" width="250" height="175" rx="10" fill="#F8F9FA" stroke="#E8E8E8" stroke-width="1"/>
+  <!-- ===== Top-Left: Hollow Victory — BG_GRAY card ===== -->
+  <rect x="100" y="55" width="250" height="175" rx="8" fill="#F2F2F2" stroke="#CCCCCC" stroke-width="0.5"/>
   <text x="225" y="100" text-anchor="middle" class="quad-emoji">🐹</text>
   <text x="225" y="126" text-anchor="middle" class="quad-title" fill="#051C2C">Hollow Victory</text>
   <text x="225" y="148" text-anchor="middle" class="quad-desc">High Achievement × Low Meaning</text>
-  <line x1="195" y1="158" x2="255" y2="158" stroke="#C4A35A" stroke-width="1.5" stroke-linecap="round"/>
+  <line x1="200" y1="158" x2="250" y2="158" stroke="#051C2C" stroke-width="1.5" stroke-linecap="round"/>
   <text x="225" y="178" text-anchor="middle" class="quad-motto">"Run faster, feel less."</text>
   <text x="225" y="198" text-anchor="middle" class="quad-motto">Automate the grind.</text>
 
-  <!-- ===== QUADRANT: Top-Right (Purposeful Impact) ===== -->
-  <rect x="370" y="55" width="250" height="175" rx="10" fill="#F8F9FA" stroke="#E8E8E8" stroke-width="1"/>
+  <!-- ===== Top-Right: Purposeful Impact — BG_GRAY card ===== -->
+  <rect x="370" y="55" width="250" height="175" rx="8" fill="#F2F2F2" stroke="#CCCCCC" stroke-width="0.5"/>
   <text x="495" y="100" text-anchor="middle" class="quad-emoji">🚀</text>
   <text x="495" y="126" text-anchor="middle" class="quad-title" fill="#051C2C">Purposeful Impact</text>
   <text x="495" y="148" text-anchor="middle" class="quad-desc">High Achievement × High Meaning</text>
-  <line x1="465" y1="158" x2="525" y2="158" stroke="#C4A35A" stroke-width="1.5" stroke-linecap="round"/>
+  <line x1="470" y1="158" x2="520" y2="158" stroke="#051C2C" stroke-width="1.5" stroke-linecap="round"/>
   <text x="495" y="178" text-anchor="middle" class="quad-motto">"Build what matters."</text>
   <text x="495" y="198" text-anchor="middle" class="quad-motto">The north star.</text>
 
-  <!-- ===== QUADRANT: Bottom-Left (The Drift) ===== -->
-  <rect x="100" y="250" width="250" height="175" rx="10" fill="#F8F9FA" stroke="#E8E8E8" stroke-width="1"/>
+  <!-- ===== Bottom-Left: The Drift — lighter card ===== -->
+  <rect x="100" y="250" width="250" height="175" rx="8" fill="#F2F2F2" stroke="#CCCCCC" stroke-width="0.5"/>
   <text x="225" y="295" text-anchor="middle" class="quad-emoji">⚓</text>
-  <text x="225" y="321" text-anchor="middle" class="quad-title" fill="#999999">The Drift</text>
+  <text x="225" y="321" text-anchor="middle" class="quad-title" fill="#666666">The Drift</text>
   <text x="225" y="343" text-anchor="middle" class="quad-desc">Low Achievement × Low Meaning</text>
-  <line x1="195" y1="353" x2="255" y2="353" stroke="#DDDDDD" stroke-width="1.5" stroke-linecap="round"/>
+  <line x1="200" y1="353" x2="250" y2="353" stroke="#CCCCCC" stroke-width="1.5" stroke-linecap="round"/>
   <text x="225" y="373" text-anchor="middle" class="quad-motto">"Lost at sea."</text>
   <text x="225" y="393" text-anchor="middle" class="quad-motto">Find your compass.</text>
 
-  <!-- ===== QUADRANT: Bottom-Right (Quiet Contentment) ===== -->
-  <rect x="370" y="250" width="250" height="175" rx="10" fill="#F8F9FA" stroke="#E8E8E8" stroke-width="1"/>
+  <!-- ===== Bottom-Right: Quiet Contentment — lighter card ===== -->
+  <rect x="370" y="250" width="250" height="175" rx="8" fill="#F2F2F2" stroke="#CCCCCC" stroke-width="0.5"/>
   <text x="495" y="295" text-anchor="middle" class="quad-emoji">🕯️</text>
-  <text x="495" y="321" text-anchor="middle" class="quad-title" fill="#999999">Quiet Contentment</text>
+  <text x="495" y="321" text-anchor="middle" class="quad-title" fill="#666666">Quiet Contentment</text>
   <text x="495" y="343" text-anchor="middle" class="quad-desc">Low Achievement × High Meaning</text>
-  <line x1="465" y1="353" x2="525" y2="353" stroke="#DDDDDD" stroke-width="1.5" stroke-linecap="round"/>
+  <line x1="470" y1="353" x2="520" y2="353" stroke="#CCCCCC" stroke-width="1.5" stroke-linecap="round"/>
   <text x="495" y="373" text-anchor="middle" class="quad-motto">"Simple riches."</text>
   <text x="495" y="393" text-anchor="middle" class="quad-motto">The life around the work.</text>
 </svg>

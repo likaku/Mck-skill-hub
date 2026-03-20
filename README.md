@@ -18,7 +18,7 @@ If your job involves slides, strategy, or structured thinking — these skills a
 &nbsp;&nbsp;
 [![License: MIT](https://img.shields.io/badge/License-MIT-051C2C.svg?style=flat-square)](LICENSE)
 &nbsp;&nbsp;
-[![PRs Welcome](https://img.shields.io/badge/PRs-welcome-C4A35A.svg?style=flat-square)](CONTRIBUTING.md)
+[![PRs Welcome](https://img.shields.io/badge/PRs-welcome-333333.svg?style=flat-square)](CONTRIBUTING.md)
 
 <br>
 
