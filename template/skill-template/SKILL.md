@@ -18,7 +18,7 @@ tags: [tag1, tag2, tag3]  # e.g., [consulting, ppt, automation, strategy]
 
 **Trigger conditions** — Claude should activate this skill when:
 
-- [Condition 1: e.g., "User asks to create a McKinsey-style PPT"]
+- [Condition 1: e.g., "User asks to create a professional-grade PPT"]
 - [Condition 2: e.g., "User mentions 'deck', 'presentation', 'slides'"]
 - [Condition 3: e.g., "User provides structured content and asks for visual output"]
 

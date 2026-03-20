@@ -2,7 +2,7 @@
 
 ## The Knowledge Worker's Paradox
 
-Whether you're at McKinsey, a startup, a Fortune 500, or a government agency — if your job is "knowledge work," you know the feeling:
+Whether you're at a consulting firm, a startup, a Fortune 500, or a government agency — if your job is "knowledge work," you know the feeling:
 
 You're incredibly good at **thinking through problems**. You can structure any issue, build a compelling storyline, and deliver a deck that makes people nod. You're sharp.
 
@@ -80,7 +80,7 @@ Every skill in this hub follows five principles:
 We never automate judgment, creativity, or relationship-building. We automate formatting, structuring, and repetitive execution.
 
 ### 2. Professional-Grade Quality
-Our outputs look like they came from a top-tier firm. The design standards are McKinsey-level — because that's the gold standard for structured visual communication, regardless of your industry.
+Our outputs look like they came from a top-tier firm. The design standards are world-class — because that's what structured visual communication deserves, regardless of your industry.
 
 ### 3. Time Is the Real Currency
 Every knowledge worker's time is precious. Every skill should save measurable time while maintaining or improving quality.
@@ -97,7 +97,7 @@ Mck Skill Hub isn't just a skill gallery. It's for people who believe that:
 
 - **Your brain deserves better than font alignment**
 - **AI should free humans to think, not just produce**
-- **McKinsey-level quality shouldn't require a McKinsey badge**
+- **Top-tier quality shouldn't require a top-tier firm badge**
 
 Welcome to the hub. We're glad you're here.
 

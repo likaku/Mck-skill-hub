@@ -16,7 +16,7 @@
 <br>
 
 <p>
-  <b>McKinsey-grade AI skills for knowledge workers who make decks at 2am.</b>
+  <b>Professional AI skills for knowledge workers who make decks at 2am.</b>
 </p>
 
 <p>
@@ -34,7 +34,7 @@
 
 ## Why This Exists
 
-Every knowledge worker knows the grind: another deck, another "align the fonts", another "can you make this more McKinsey?" at midnight. You're smart, you're capable — but 80% of your time goes to formatting, not thinking.
+Every knowledge worker knows the grind: another deck, another "align the fonts", another "can you make this look more professional?" at midnight. You're smart, you're capable — but 80% of your time goes to formatting, not thinking.
 
 **Mck Skill Hub** collects battle-tested AI agent skills that automate the mechanical parts of knowledge work — so you can focus on the 20% that actually requires your brain.
 
@@ -82,7 +82,7 @@ We organize skills around the **Meaning-Achievement Matrix** — a 2×2 that map
 
 You're crushing deliverables. The decks are pixel-perfect, the storylines are tight, the stakeholders are impressed. But deep down you know a robot could do 80% of this. These skills **automate the mechanical**, so you can invest time in work that actually needs a human brain.
 
-- [McKinsey PPT Design](https://github.com/likaku/Mck-ppt-design-skill) - Consultant-grade PowerPoint presentations with a full design system: 16+ layouts, typography hierarchy, color tokens, and python-pptx automation. `✅ Production`
+- [Mck PPT Design](https://github.com/likaku/Mck-ppt-design-skill) - Professional-grade PowerPoint presentations with a full design system: 16+ layouts, typography hierarchy, color tokens, and python-pptx automation. `✅ Production`
 - [Professional Speech](https://github.com/likaku/Mck-speech-design-skill) - Structure compelling presentations and talking points using Pyramid Principle, SCQA, and Minto frameworks. `✅ Production`
 
 ## 🚀 Purposeful Impact

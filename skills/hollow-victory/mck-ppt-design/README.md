@@ -1,6 +1,6 @@
-# McKinsey PPT Design
+# Mck PPT Design
 
-> *Consultant-grade PowerPoint presentations, generated in seconds.*
+> *Professional-grade PowerPoint presentations, generated in seconds.*
 
 ## Overview
 
@@ -9,11 +9,11 @@
 | **Quadrant** | 🐹 Hollow Victory |
 | **Tier** | ✅ Production |
 | **Author** | Kaku |
-| **Tags** | `consulting` `ppt` `design` `automation` `mckinsey` |
+| **Tags** | `ppt` `design` `automation` `slides` `presentation` |
 
 ## What Problem Does This Solve?
 
-Consultants spend 40-60% of their working hours on slide formatting — adjusting fonts, aligning boxes, ensuring color consistency. This skill automates the entire design layer, producing McKinsey-grade decks from structured content. **You focus on the storyline; the skill handles the pixels.**
+Knowledge workers spend 40-60% of their working hours on slide formatting — adjusting fonts, aligning boxes, ensuring color consistency. This skill automates the entire design layer, producing professional-grade decks from structured content. **You focus on the storyline; the skill handles the pixels.**
 
 ## Quick Start
 
@@ -27,13 +27,13 @@ cp -r . ~/.claude/skills/mck-ppt-design/
 ```
 "Create a 10-slide strategy presentation for [Client Name] covering
 market analysis, competitive landscape, and recommended next steps.
-McKinsey style, navy and white color scheme."
+Professional style, navy and white color scheme."
 ```
 
 The skill will:
 1. Parse your content structure
 2. Select optimal layouts for each slide
-3. Apply the full McKinsey design system
+3. Apply the full Mck design system
 4. Generate a production-ready .pptx file
 
 ## How It Works

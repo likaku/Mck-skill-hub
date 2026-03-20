@@ -1,25 +1,25 @@
 ---
 name: mck-ppt-design
 description: |
-  McKinsey-style PowerPoint presentation design framework with Python-pptx automation.
-  Creates consultant-grade decks from scratch using a comprehensive design system
+  Professional PowerPoint presentation design framework with Python-pptx automation.
+  Creates top-tier decks from scratch using a comprehensive design system
   including typography hierarchy, color palettes, layout patterns, and line treatments.
   Trigger when users need professional presentations, slide decks, or pitch materials.
 quadrant: hollow-victory
 tier: production
 author: Kaku
-tags: [consulting, ppt, design, automation, mckinsey, python-pptx]
+tags: [ppt, design, automation, slides, python-pptx, presentation]
 ---
 
-# McKinsey PPT Design Skill
+# Mck PPT Design Skill
 
-> *Create consultant-grade PowerPoint presentations with one prompt.*
+> *Create professional-grade PowerPoint presentations with one prompt.*
 
 ## When to Use
 
 Activate this skill when:
 
-- User asks to create a McKinsey-style, BCG-style, or consultant-grade PPT
+- User asks to create a professional, consultant-grade, or top-tier PPT
 - User mentions "deck", "presentation", "slides" in a professional context
 - User provides structured content (strategy, analysis, recommendations) and needs visual output
 - User references "workbuddy-ppt" or "mck-ppt" design patterns
