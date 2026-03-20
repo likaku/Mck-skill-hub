@@ -28,6 +28,11 @@ If your job involves slides, strategy, or structured thinking — these skills a
 <a href="template/skill-template/">📐 Skill Template</a>
 </sub>
 
+<br>
+<br>
+
+**English** &nbsp;|&nbsp; [中文](README_CN.md)
+
 </div>
 
 <br>
