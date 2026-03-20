@@ -82,6 +82,8 @@ We organize skills around the **Meaning-Achievement Matrix** — a 2×2 that map
 
 You're crushing deliverables. The decks are pixel-perfect, the storylines are tight, the stakeholders are impressed. But deep down you know a robot could do 80% of this. These skills **automate the mechanical**, so you can invest time in work that actually needs a human brain.
 
+> 💡 *My gut feeling is that PPT will eventually be obsoleted.* — [See what's brewing beyond slides →](https://github.com/likaku?tab=repositories)
+
 | Skill | Description | Status |
 |-------|-------------|--------|
 | [**Mck PPT Design**](https://github.com/likaku/Mck-ppt-design-skill) | Professional-grade PowerPoint presentations with a full design system: 16+ layouts, typography hierarchy, color tokens, and python-pptx automation. | `✅ Production` |

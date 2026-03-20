@@ -82,6 +82,8 @@
 
 你在拼命交付。PPT 像素级完美，故事线紧凑，利益相关者都很满意。但你心里清楚，其中 80% 的工作机器人也能做。这些技能**自动化那些机械劳动**，让你把时间花在真正需要人脑的事情上。
 
+> 💡 *我的 gut feeling 是，PPT will eventually 被淘汰。* — [看看幻灯片之外还在酝酿什么 →](https://github.com/likaku?tab=repositories)
+
 | 技能 | 描述 | 状态 |
 |------|------|------|
 | [**Mck PPT Design**](https://github.com/likaku/Mck-ppt-design-skill) | 专业级 PowerPoint 演示设计，完整设计系统：16+ 布局模板、字体层级、色彩 Token、python-pptx 自动化。 | `✅ 生产就绪` |
