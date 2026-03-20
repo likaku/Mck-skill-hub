@@ -86,7 +86,7 @@
 |------|------|------|
 | [**Mck PPT Design**](https://github.com/likaku/Mck-ppt-design-skill) | 专业级 PowerPoint 演示设计，完整设计系统：16+ 布局模板、字体层级、色彩 Token、python-pptx 自动化。 | `✅ 生产就绪` |
 | [**Professional Speech**](https://github.com/likaku/Mck-speech-design-skill) | 使用金字塔原理、SCQA、Minto 框架来结构化演讲内容和 talking points。 | `✅ 生产就绪` |
-| [**More from Kaku**](https://github.com/likaku?tab=repositories) | 我的 gut feeling 是，PPT will eventually 被淘汰。看看幻灯片之外还在酝酿什么。 | `💡 探索` |
+| [**Mck HTML Design**](https://github.com/likaku/mck-html-design-skill) | 用 Python 一键生成麦肯锡风格 HTML 演示文稿——68 种布局，零依赖。我的 gut feeling 是，PPT will eventually 被淘汰。 | `✅ 生产就绪` |
 
 ### 🚀 有意义的影响（Purposeful Impact）
 
